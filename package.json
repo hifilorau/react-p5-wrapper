@@ -31,8 +31,7 @@
     "url": "https://github.com/NeroCor/react-p5-wrapper/issues"
   },
   "dependencies": {
-    "classnames": "^2.1.2",
-    "p5": "^0.5.10"
+    "classnames": "^2.1.2"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
